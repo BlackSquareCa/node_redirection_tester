@@ -1,0 +1,13 @@
+{
+  "name": "redirect-test",
+  "version": "1.0.0",
+  "main": "node start.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "mocha": "^8.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
